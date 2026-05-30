@@ -1,3 +1,6 @@
+# 💫 About Me:
+💻 Computer Science Student | Java Development Enthusiast<br>🚀 Learning, Building, and Growing as a Developer<br>🌱 Passionate about Coding and Problem Solving<br>👨‍💻 Java Developer <br>🔥 Turning Ideas into Code<br>🎯 Aspiring Software Engineer<br>📚 Constantly Learning New Technologies<br>⚡ Code • Learn • Create
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjay-jerene-02839a323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayjerene04@gmail.com) 
